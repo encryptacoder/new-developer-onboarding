@@ -12,7 +12,7 @@
 ### Installs stable Ubuntu-14.04 (trusty)
 ### Installs: node, redis, mongo, git, and curl
 
-### To begin:
+## To begin:
 ### Install VirtualBox here: https://www.virtualbox.org/
 ### Install Vagrant here: https://www.vagrantup.com/
 ### Install Git and/or use package manager (e.g. HomeBrew: http://brew.sh/)
